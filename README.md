@@ -33,9 +33,9 @@ Let’s connect and collaborate on exciting projects that push the boundaries of
 
 ## 📊 GitHub Stats:
 
-![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshhthakral&show_icons=true&theme=dark)
+![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshhthakral&show_icons=true&theme=radical)
 
 ### 🔥 Most Used Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshhthakral&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshhthakral&layout=compact)
 
