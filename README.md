@@ -37,5 +37,5 @@ Let’s connect and collaborate on exciting projects that push the boundaries of
 
 ### 🔥 Most Used Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshhthakral&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshhthakral&layout=compact&theme=dark)](https://github.com/vanshhthakral/github-readme-stats)
 
