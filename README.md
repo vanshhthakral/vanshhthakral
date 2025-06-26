@@ -34,6 +34,7 @@ Let’s connect and collaborate on exciting projects that push the boundaries of
 ## 📊 GitHub Stats:
 
 ![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshhthakral&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanshhthakral&theme=transparent)](https://git.io/streak-stats)
 
 ### 🔥 Most Used Languages:
 
