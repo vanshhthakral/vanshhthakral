@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vansh Thakral</h1>
 
 <p align="center">
-I’m a sophomore pursuing B.Tech in Computer Science at UPES, Dehradun. With a deep passion for coding, problem-solving, and creativity, I thrive on exploring and learning across diverse fields of technology and innovation. From software development to DevOps and cloud computing, I’m always eager to expand my knowledge and take on new challenges. 🚀
+I’m a pre-final pursuing B.Tech in Computer Science at UPES, Dehradun. With a deep passion for coding, problem-solving, and creativity, I thrive on exploring and learning across diverse fields of technology and innovation. From software development to DevOps and cloud computing, I’m always eager to expand my knowledge and take on new challenges. 🚀
 
 Let’s connect and collaborate on exciting projects that push the boundaries of technology! 💡🌱
 
@@ -35,7 +35,5 @@ Let’s connect and collaborate on exciting projects that push the boundaries of
 
 ![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshhthakral&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vanshhthakral&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshhthakral&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshhthakral&layout=compact)
 
