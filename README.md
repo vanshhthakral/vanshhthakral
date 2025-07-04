@@ -37,3 +37,7 @@ Let’s connect and collaborate on exciting projects that push the boundaries of
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshhthakral&layout=compact)
 
+## 🧮 GitHub Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanshhthakral&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
