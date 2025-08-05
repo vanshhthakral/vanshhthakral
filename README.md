@@ -3,7 +3,7 @@
 <p align="center">
 I’m a pre-final pursuing B.Tech in Computer Science at UPES, Dehradun. With a deep passion for coding, problem-solving, and creativity, I thrive on exploring and learning across diverse fields of technology and innovation. From software development to DevOps and cloud computing, I’m always eager to expand my knowledge and take on new challenges. 🚀
 
-Let’s connect and collaborate on exciting projects that push the boundaries of technology! 💡🌱
+Let’s connect and collaborate on exciting projects that push the boundaries of technology! 💡
 
 
 </p>
