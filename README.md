@@ -13,7 +13,7 @@ Let’s connect and collaborate on exciting projects that push the boundaries of
 -----
 
 ## 🚀 Tech Stack:
-## 🚀 Tech Stack:
+
 
 <p align="left">
 
