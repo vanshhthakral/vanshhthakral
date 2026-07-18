@@ -106,31 +106,22 @@ Pre-Final Year Computer Science Student | MERN Stack Developer | DevOps Enthusia
 
 # 📈 GitHub Stats
 
-> **If these images don't load, the GitHub Stats service may be temporarily unavailable.**
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshhthakral&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshhthakral&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshhthakral&theme=github_dark"/>
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=vanshhthakral&theme=github-dark-blue&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshhthakral&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshhthakral&theme=github_dark"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vanshhthakral&theme=algolia&no-frame=true&margin-w=15&row=1"/>
-</p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanshhthakral&theme=github_dark"/>
 
----
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanshhthakral&theme=github_dark"/>
+</p>
 
 # 📈 Contribution Graph
 
