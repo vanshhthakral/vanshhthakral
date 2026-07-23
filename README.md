@@ -4,9 +4,7 @@
 Pre-Final Year Computer Science Student | MERN Stack Developer | DevOps Enthusiast
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;DevOps+Enthusiast;Cloud+Computing+Learner;Always+Learning+New+Technologies🚀" />
-</p>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vanshhthakral&label=Profile%20Views&color=0e75b6&style=flat" />
